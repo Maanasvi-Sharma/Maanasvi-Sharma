@@ -1,7 +1,5 @@
 ![logo](https://github.com/Maanasvi-Sharma/Maanasvi-Sharma/blob/main/1657169750228.jpeg)
-## Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Manasvi Sharma</h1>
+<h1 align="center">Hi there 👋, This is Manasvi Sharma</h1>
 <h3 align="center">Machine Learning | Python | Deep Learning | NLP</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/CigpzapemsoAAAAi/hi-robot.gif">
