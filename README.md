@@ -1,6 +1,5 @@
-![logo](https://github.com/Maanasvi-Sharma/Maanasvi-Sharma/blob/main/download.png)
-
-### Hi there 👋
+![logo](https://github.com/Maanasvi-Sharma/Maanasvi-Sharma/blob/main/1657169750228.jpeg)
+## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Manasvi Sharma</h1>
 <h3 align="center">Machine Learning | Python | Deep Learning | NLP</h3>
