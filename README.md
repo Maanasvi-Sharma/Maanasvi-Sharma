@@ -1,3 +1,5 @@
+![logo](https://github.com/Maanasvi-Sharma/Maanasvi-Sharma/blob/main/download.png)
+
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Manasvi Sharma</h1>
