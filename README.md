@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **maanasvisharma.585@gmail.com**
 
-- 📄 Know about my experiences [https://novoresume.com/editor/resume/8a2ef4d0-f327-11ec-8635-f119f480f4f1](https://novoresume.com/editor/resume/8a2ef4d0-f327-11ec-8635-f119f480f4f1)
+- 📄 Know about my experiences [Resume](https://flowcv.com/resume/sv1flr9wg4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
